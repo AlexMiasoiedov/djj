@@ -1,0 +1,2 @@
+class LocationsController < ApiController
+end
